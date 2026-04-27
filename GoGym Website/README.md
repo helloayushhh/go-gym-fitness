@@ -25,7 +25,7 @@ git clone
 
 ![output1](https://github.com/helloayushhh/GoGym-Website/blob/main/GoGym%20Website/images/output/output1.png)
 
-![output2](https://github.com/helloayushhh/GoGym-Website/blob/main/GoGym%20Website/images/output/output1.png)
+![output2](https://github.com/helloayushhh/GoGym-Website/blob/main/GoGym%20Website/images/output/output2.png)
 
-![output3](https://github.com/helloayushhh/GoGym-Website/blob/main/GoGym%20Website/images/output/output1.png)
+![output3](https://github.com/helloayushhh/GoGym-Website/blob/main/GoGym%20Website/images/output/output3.png)
 
